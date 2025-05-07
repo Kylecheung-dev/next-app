@@ -18,7 +18,7 @@ function MyAmpPage() {
 
       <p>Some time: {date.toJSON()}</p>
       <amp-tiktok
-        data-src="7489045650936483091"
+        data-src="7277598362637995294"
         width="325"
         height="575"
         layout="responsive"

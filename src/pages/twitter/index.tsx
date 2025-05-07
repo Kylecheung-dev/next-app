@@ -21,7 +21,7 @@ function MyAmpPage() {
         width="375"
         height="472"
         layout="responsive"
-        data-tweetid="1354143047324299264"
+        data-tweetid="1919558127676006757"
       ></amp-twitter>
     </div>
   );
